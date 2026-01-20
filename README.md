@@ -8,3 +8,5 @@ In this task, I analyzed college event feedback data using Power BI to uncover p
 
 🔗 GitHub Repository: 
 #DataScience #PowerBI #DataAnalytics #FutureInterns
+<img width="1187" height="742" alt="image" src="https://github.com/user-attachments/assets/33de5bad-a9e1-42ae-b744-162f6c6647ad" />
+
