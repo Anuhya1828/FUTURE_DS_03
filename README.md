@@ -9,4 +9,5 @@ In this task, I analyzed college event feedback data using Power BI to uncover p
 🔗 GitHub Repository: https://github.com/Anuhya1828/FUTURE_DS_03.git
 #DataScience #PowerBI #DataAnalytics #FutureInterns
 <img width="1187" height="742" alt="image" src="https://github.com/user-attachments/assets/33de5bad-a9e1-42ae-b744-162f6c6647ad" />
+Through this College Event Feedback Analysis using Power BI, I learned how to clean, model, and visualize large feedback datasets effectively. I gained practical knowledge in creating interactive dashboards to analyze satisfaction levels, participation trends, and overall event performance. This helped me understand how data-driven insights support better decision-making and improve future college events.
 
