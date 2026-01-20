@@ -5,7 +5,6 @@ In this task, I analyzed college event feedback data using Power BI to uncover p
 🔹 Tools Used: Power BI, Excel
 🔹 Focus Areas: Satisfaction trends, feedback interpretation, actionable insights
 🔹 Outcome: A dynamic dashboard showcasing strengths and opportunities for enhancement
-
 🔗 GitHub Repository: https://github.com/Anuhya1828/FUTURE_DS_03.git
 #DataScience #PowerBI #DataAnalytics #FutureInterns
 <img width="1187" height="742" alt="image" src="https://github.com/user-attachments/assets/33de5bad-a9e1-42ae-b744-162f6c6647ad" />
